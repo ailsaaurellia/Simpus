@@ -4,15 +4,15 @@
 
 * Data Buku
 
-  ![image](https://github.com/ailsaaurellia/Simpus2/assets/148856554/d04427ce-3f97-4eb7-ac56-1cac02399433)
+  ![image](https://github.com/ailsaaurellia/Simpus1/assets/148856554/d04427ce-3f97-4eb7-ac56-1cac02399433)
 
 * Simpan Data
 
-  ![image](https://github.com/ailsaaurellia/Simpus2/assets/148856554/92a6704e-0422-4dec-82eb-ae3510ace000)
+  ![image](https://github.com/ailsaaurellia/Simpus1/assets/148856554/92a6704e-0422-4dec-82eb-ae3510ace000)
 
 * Update Data
 
-  ![image](https://github.com/ailsaaurellia/Simpus2/assets/148856554/c460e6ec-8bf7-429d-8620-0c2118efd7ad)
+  ![image](https://github.com/ailsaaurellia/Simpus1/assets/148856554/c460e6ec-8bf7-429d-8620-0c2118efd7ad)
 
   ![image](https://github.com/ailsaaurellia/Simpus2/assets/148856554/08457de6-4c1b-4f6f-980a-62e00d93a356)
 
